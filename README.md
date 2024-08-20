@@ -1,2 +1,2 @@
 # snake-game
-its is a snake game which is dine by basic html,css and javascript
+its is a snake game which is done by basic html,css and javascript
